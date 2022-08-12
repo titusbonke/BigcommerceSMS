@@ -1,0 +1,1 @@
+ACCESS TOKEN: 5vbutpplcbja9ghryimo78mq24o3cvfCLIENT NAME: SMSCLIENT ID: 5lglygbnb1tpvrijj82s24xjrtr47oxCLIENT SECRET: b40b70dbf57c827a2c9c7a94ee56bbc8ed7e4620ff2fbecc9f4a27eb3c17eb5fNAME: SMSAPI PATH: https://api.bigcommerce.com/stores/9ugk9loqm5/v3/
